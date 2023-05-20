@@ -1,4 +1,4 @@
-# Select Vertex Color (Blender Addon)
+# Clean Vertex Color (Blender Addon)
 Select Vertex Color is an addon for blender that both selects an object by vertex color, and limited dissolves the vertex colors individual for quick triangle reduction.
 
 My intentions were to quickly create an addon for blender that would improve modelling workflow between MagicaVoxel -> Blender -> Roblox.
@@ -9,8 +9,8 @@ My intentions were to quickly create an addon for blender that would improve mod
 2. Import model to blender as .ply
 3. Select the object in Blender, and go into `Edit` mode.
 4. Open the N-Menu on the right side of the viewport by using the `N` hotkey.
-5. Select `somethingElse` from the list. ( Yea, I should definitely rename that ) 
-6. After the menu is opened press the `Select By Vertex Color` button to clean the mesh.
+5. Select `Clean Vertex Color` from the list. ( Yea, I should definitely rename that ) 
+6. After the menu is opened press the `Clean Vertex Color` button to clean the mesh.
 
 <br>
 
