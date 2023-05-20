@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/114952874177462273)
 # Clean Vertex Color (Blender Addon)
 Select Vertex Color is an addon for blender that both selects an object by vertex color, and limited dissolves the vertex colors individual for quick triangle reduction.
 
